@@ -1,0 +1,12 @@
+# Ignore the large raw Olist E-commerce datasets
+*.csv
+
+# Ignore virtual environments
+venv/
+.venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints and VS Code settings
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
