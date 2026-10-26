@@ -135,4 +135,7 @@ This project demonstrates an end-to-end analytical workflow for investigating e-
 
 Gradient Boosting was the strongest expanded model tested, but low precision and dataset limitations mean the current results should be treated as exploratory rather than production-ready.
 
+<<<< HEAD
 The analysis provides a foundation for further research into cancellation prevention, improved predictive features, and more effective operational decision-making.
+
+
